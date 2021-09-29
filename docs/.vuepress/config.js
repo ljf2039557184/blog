@@ -1,4 +1,5 @@
 module.exports = {
-    title: '李本伟的个人网站',
-    description: 'Just playing around'
+    title: "My Blog",
+    description: "This is a blog.",
+    base: '/blog/' 
   }
